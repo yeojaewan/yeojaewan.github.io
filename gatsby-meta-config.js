@@ -1,8 +1,8 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  title: `jaewancoding`,
+  description: `재완의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
+  siteUrl: `https://www.jaewancoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
@@ -11,16 +11,16 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `여재완`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['새로운 것을 찾는', '보다 편리하게', '재미를 만드는'],
       thumbnail: 'zoomkoding.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: `https://github.com/zoomkoding`,
-      linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: `zoomkoding@gmail.com`,
+      github: `https://github.com/yeojaewan`,
+      // linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      email: `jaewan2204@gmail.com`,
     },
   },
 
